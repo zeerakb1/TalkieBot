@@ -1,0 +1,38 @@
+export default chatFaceData=[
+    {
+        id:1,
+        name:'Noyi',
+        // image:'https://res.cloudinary.com/dknvsbuyy/image/upload/v1685678135/chat_1_c7eda483e3.png',
+        image:'../../assets/Noyi.png',
+        primary:'#FFC107',
+        secondary:''
+    },
+    {
+        id:2,
+        name:'Pogu',
+        image:'../../assets/Pogu.png',
+        primary:'#E53057',
+        secondary:''
+    },
+    {
+        id:3,
+        name:'Nista',
+        image:'../../assets/Nista.png',
+        primary:'#3B96D2',
+        secondary:''
+    },
+    {
+        id:4,
+        name:'Estor',
+        image:'../../assets/Estor.png',
+        primary:'#37474F',
+        secondary:''
+    },
+    {
+        id:5,
+        name:'Pega',
+        image:'../../assets/Pega.png',
+        primary:'#2473FE',
+        secondary:''
+    },
+]
